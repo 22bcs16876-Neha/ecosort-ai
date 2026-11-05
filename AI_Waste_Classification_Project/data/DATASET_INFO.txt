@@ -1,0 +1,4 @@
+Dataset is downloaded by running: python download_dataset.py
+Source: TrashNet by Gary Thung and Mindy Yang (Stanford CS229).
+Six labels: cardboard, glass, metal, paper, plastic, trash.
+The resized archive is approximately 43 MB; an internet connection is required for first download.
